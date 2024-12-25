@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADuAAAAAAAA4O4AAADgAADu7QDuDu4O7t7t4N7u3u7e3e3u3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3u3d3d3d3d7eDe7t7u3t3tAO4O7g7u3u0AAADgAADu7QAAAAAAAODuAAAAAAAAAO4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black Pawn"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAABVAAAAAAAAUFUAAABQAABVUwBVBVUFVTVTUDVVNVU1M1NVMzMzMzMzUzUzMzMzMzNTNTMzMzMzM1NVMzMzMzMzU1A1VTVVNTNTAFUFVQVVNVMAAABQAABVUwAAAAAAAFBVAAAAAAAAAFUAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White Pawn"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
