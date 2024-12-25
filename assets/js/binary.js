@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.58/---simulator","cdnUrl":"https://cdn.makecode.com","version":"0.0.0","target":"arcade","targetVersion":"1.12.58"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.58/---simulator","cdnUrl":"https://cdn.makecode.com","version":"1.0.0","target":"arcade","targetVersion":"1.12.58","repo":"ilov3gam3z/xtronprochess"}
 // total=1394741 new=6.59% cached=87.67% other=5.74%
 (function (ectx) {
 'use strict';
@@ -465,7 +465,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P19757(s) {
+function _main___P19799(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -954,13 +954,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P19757.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"pxt_modules/arcade-sprite-data/main.ts","functionName":"<main>","argumentNames":[]}
-_main___P19757.continuations = [  ]
+_main___P19799.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"pxt_modules/arcade-sprite-data/main.ts","functionName":"<main>","argumentNames":[]}
+_main___P19799.continuations = [  ]
 
-function _main___P19757_mk(s) {
+function _main___P19799_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P19757, depth: s.depth + 1,
+        parent: s, fn: _main___P19799, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -47341,5 +47341,5 @@ const sprites_BaseSpriteSayRenderer__C2260_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, ["transparency16___4747","tile1___4748","tile2___4749","tile3___4750","camera_x___4742","camera_y___4743"])
 
-return _main___P19757
+return _main___P19799
 })
