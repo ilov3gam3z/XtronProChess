@@ -9,6 +9,56 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "White Pawn"
     },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAABVAAAAAAAAUFUAAABQAABVU1BVBVUFVTVTVTVVNVU1M1MANTMzMzMzU1U1MzMzMzNTVTUzMzMzM1MANTMzMzMzU1U1VTVVNTNTUFUFVQVVNVMAAABQAABVUwAAAAAAAFBVAAAAAAAAAFUAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White Rook"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADuAAAAAAAA4O4AAAAAAADu7QAA4O4O7t7tAO4A7u7e3e3g7g7g3d3d7e7d7u7d3d3t7t3d3d3d3e3g7t7d3d3d7QAA7t3u3t3tAADg7g7u3u0AAAAAAADu7QAAAAAAAODuAAAAAAAAAO4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black Bishop"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAABVAAAAAAAAUFUAAAAAAABVUwAAUFUFVTVTAFUAVVU1M1NQVQVQMzMzU1UzVVUzMzNTVTMzMzMzM1NQVTUzMzMzUwAAVTNVNTNTAABQVQVVNVMAAAAAAABVUwAAAAAAAFBVAAAAAAAAAFUAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White Bishop"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAO7uAAAAAADg3u0OAADuAO7d3e4A4O4A3u3u7e7u7QDe7eDe3d3tAN7tAN7d3e3g3u3u3t3d7e7d3d3d3d3t7t3d3d3d3e3g3u3u3t3d7QDe7QDe3d3tAN7t4N7d3e0A3u3u7e7u7QDu3d3uAODuAODe7Q4AAO4AAO7uAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black King"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAFVVAAAAAABQNVMFAABVAFUzM1UAUFUANVNVU1VVUwA1U1A1MzNTADVTADUzM1NQNVNVNTMzU1UzMzMzMzNTVTMzMzMzM1NQNVNVNTMzUwA1UwA1MzNTADVTUDUzM1MANVNVU1VVUwBVMzNVAFBVAFA1UwUAAFUAAFVVAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White King"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADuAAAAAAAA4O4AAADgAADu7eDuDu4O7t7t7t7u3u7e3e0A3t3d3d3d7e7e3d3d3d3t7t7d3d3d3e0A3t3d3d3d7e7e7t7u3t3t4O4O7g7u3u0AAADgAADu7QAAAAAAAODuAAAAAAAAAO4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black Rook"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADuAADu7g4A4O4A4N7d7gDu7QDu3d3t7t7t4N7d3d3d3e3u3d3d3d3d7e7d3d3d3d3t4N3d7u7d3e3g3tkO4N7d7QDu3e4A3t3tAODu7Q7u3u0AAODuDgDu7QAAAO4AAODuAAAAAAAAAO4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black Knight"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAABVAABVVQUAUFUAUDUzVQBVUwBVMzNTVTVTUDUzMzMzM1NVMzMzMzMzU1UzMzMzMzNTUDMzVVUzM1NQNTkFUDUzUwBVM1UANTNTAFBVVQVVNVMAAFBVBQBVUwAAAFUAAFBVAAAAAAAAAFUAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White Knight"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADuDgAAAADu4N7uAAAA4O7g3u3uDgDu7QDu3d3u7t7tAODu3d3d3e3g7u7e3d3d7e7d3d3d3d3t7t3d3d3d3e3g7u7e3d3d7QDg7t3d3d3tAO7d3e7u3u3g3u3uDgDu7eDe7gAAAODuAO4OAAAAAO4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Black Queen"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABVBQAAAABVUDVVAAAAUFVQNVNVBQBVUwBVMzNVVTVTAFBVMzMzM1NQVVU1MzMzU1UzMzMzMzNTVTMzMzMzM1NQVVU1MzMzUwBQVTMzMzNTAFUzM1VVNVNQNVNVBQBVU1A1VQAAAFBVAFUFAAAAAFUAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White Queen"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
